@@ -1,0 +1,3 @@
+# Fazz | First Server OS Notes
+
+...
